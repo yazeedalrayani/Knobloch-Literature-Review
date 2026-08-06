@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Manuscript and clinical source material — never commit
+*.docx
+*.doc
+*.pdf
+*.pptx
+*.xlsx
+BestCare*/
+Articles/
+manuscript/
+private/
